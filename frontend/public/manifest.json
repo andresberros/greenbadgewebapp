@@ -1,0 +1,15 @@
+{
+    "short_name": "GreenBadge",
+    "name": "GreenBadge",
+    "icons": [
+      {
+        "src": "green_badge.png",
+        "sizes": "149x156",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "./index.html",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
